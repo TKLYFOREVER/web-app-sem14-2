@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Título de la app
-st.title("Calculadora de IMC 💪")
+st.title("Calculadora de IMC de Diego Quinones para el curso de cloud 💪")
 
 st.write("Esta aplicación calcula tu Índice de Masa Corporal (IMC) y determina tu nivel de peso.")
 
